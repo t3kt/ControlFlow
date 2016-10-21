@@ -2,7 +2,7 @@
 	"name" : "ControlFlow",
 	"version" : 1,
 	"creationdate" : 3559832527,
-	"modificationdate" : 3559832629,
+	"modificationdate" : 3559837142,
 	"viewrect" : [ 33.0, 76.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -17,6 +17,11 @@
 			}
 ,
 			"cflow.io.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"cflow.channel.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}

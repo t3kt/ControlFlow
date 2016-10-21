@@ -213,9 +213,9 @@
 					"outlettype" : [ "", "", "", "" ],
 					"patching_rect" : [ 176.0, 151.0, 58.0, 22.0 ],
 					"restore" : 					{
-						"oscinport" : [ 8000 ],
+						"oscinport" : [ 7001 ],
 						"oscouthost" : [ "localhost" ],
-						"oscoutport" : [ 7400 ]
+						"oscoutport" : [ 7000 ]
 					}
 ,
 					"style" : "",
